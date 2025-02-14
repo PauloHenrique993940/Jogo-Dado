@@ -144,13 +144,7 @@ footer {
 
 
 @media (max-width: 425px){
-    body{
-        text-align: center;
-        justify-content: center;
-        display: flex;
-        align-items: center;
-        flex-direction: column;
-    }
+    
     .container-Text{
         text-align: center;
     }
